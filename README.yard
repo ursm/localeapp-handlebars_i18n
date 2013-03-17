@@ -47,7 +47,7 @@ If all of that makes sense to you, here is an explanation of the
 configuration options that you will need to set up to push out missing
 tranlsations to Localeapp.
 
- 
+
 === hbs_load_path
 This is the path to all of your handlebars templates. All of the files
 listed here will be scanned for a handlebars set using the helper you
