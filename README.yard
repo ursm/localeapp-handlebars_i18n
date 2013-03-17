@@ -1,6 +1,6 @@
 = Localeapp::HanldebarsI18n
 
-Localeapp::HandlebarsI18n is a set of tools for parsing hanldebars
+Localeapp::HandlebarsI18n is a set of tools for parsing handlebars
 templates for a specific helper to collect missing i18n keys and report
 them to the Localeapp service.
 
