@@ -12,7 +12,6 @@ and finally pull down any new localizations from Localeapp.
 
 Here is an overly verbose example of a rake task that does just that!
 
-  !!!ruby
   namespace :localeapp do
     desc "push missing handlebars keys up to localeapp and update locale yml from localeapp"
     task :update do
